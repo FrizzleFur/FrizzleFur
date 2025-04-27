@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://michaelmao.co">
+  <a href="[michael的博客](https://michaelMaoMao.github.io)">
     <img src="https://img.shields.io/badge/🌱%20博客-MichaelMao-brightness.svg" />
   </a>
   <a href="https://github.com/FrizzleFur">
