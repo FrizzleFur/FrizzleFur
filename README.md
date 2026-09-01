@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/FrizzleFur">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrizzleFur&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrizzleFur&layout=compact&theme=vue&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrizzleFur&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrizzleFur&layout=compact&theme=vue&hide_border=true" />
   </a>
 </p>
 
